@@ -1,0 +1,2 @@
+class BaasAsset(object):
+    pass
